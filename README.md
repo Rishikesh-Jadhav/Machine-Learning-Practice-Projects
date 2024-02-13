@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-This repository serves as a record of my practice ML projects. It includes project notebooks for both structutred data and unstructured data projects. Each type of project is organized within its respective folder, complete with accompanying documentation and any necessary resources. Additionally there are a few practice notebooks for concept revision for data science and ML tools(pandas, numpy, matplotlib, scikit learn) in the Practice Notebooks folder.
+This repository serves as a record of my ML projects as a part of a ML course. It includes project notebooks for both structutred data and unstructured data projects. Each type of project is organized within its respective folder, complete with accompanying documentation and any necessary resources. Additionally there are a few practice notebooks for concept revision for data science and ML tools(pandas, numpy, matplotlib, scikit learn) in the Practice Notebooks folder.
 
 ## 📄 Projects List
 
