@@ -33,7 +33,7 @@ This repository serves as a record of my practice ML projects. It includes proje
   3. __Re-creating the Dolly Zoom:__ Successfully implemented the Dolly Zoom effect in PyTorch3D.
      <img src="reviews_and_presentations/outputs/a1_dolly_zoom.png" alt="dolly zoom" width="400"/> -->
 
-## [Practice Notebooks](https://github.com/Rishikesh-Jadhav/Machine-Learning-Practice-Projects/practice_notebooks):  Contains all Data science and ML tools
+### [Practice Notebooks](https://github.com/Rishikesh-Jadhav/Machine-Learning-Practice-Projects/practice_notebooks):  Contains all Data science and ML tools
  
   1. __Pandas:__ Datatypes, Ipmorting, Exporting, Describing(.dtypes, .describe, .info), Viewing and selecting data(loc, iloc, h.head(),.tail()), Manipulating data, feature engineering
   
