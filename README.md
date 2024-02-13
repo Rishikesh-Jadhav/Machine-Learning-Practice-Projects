@@ -22,7 +22,7 @@ This repository serves as a record of my practice ML projects. It includes proje
   3. __Re-creating the Dolly Zoom:__ Successfully implemented the Dolly Zoom effect in PyTorch3D.
      <img src="reviews_and_presentations/outputs/a1_dolly_zoom.png" alt="dolly zoom" width="400"/> -->
      
-  ### [Unstructuted data project](https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision/tree/main/Project2):  Neural networks, deep learning and transfer learning with TensorFlow 2.0
+  ### [Unstructuted data project](https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision/tree/main/Project2):  Neural networks, deep learning and transfer learning 
  
 - **End to end Dog Vision**:
 
