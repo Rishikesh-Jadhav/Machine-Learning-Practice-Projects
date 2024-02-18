@@ -3,7 +3,7 @@ This repository serves as a record of my ML projects as a part of a ML course co
 
 ## 📄 Projects List
 
-### [Structuted data projects](https://github.com/Rishikesh-Jadhav/Machine-Learning-Practice-Projects/tree/main/Structured%20Data%20Projects): End-to-end structured data projects (classification and regression)
+### [Structuted data project](https://github.com/Rishikesh-Jadhav/Machine-Learning-Practice-Projects/tree/main/Structured%20Data%20Projects): End-to-end structured data project 
 
 - **Bluebook bulldozer price regression**:
 
