@@ -4,14 +4,6 @@ This repository serves as a record of my ML projects as a part of a ML course co
 ## 📄 Projects List
 
 ### [Structuted data projects](https://github.com/Rishikesh-Jadhav/Machine-Learning-Practice-Projects/tree/main/Structured%20Data%20Projects): End-to-end structured data projects (classification and regression)
-- **Heart Disease Classification**:
-
- <!-- 1. __Rendering First Mesh:__ Acquired a basic understanding of mesh rendering using PyTorch3D.
-
-  2. __Practicing with Cameras:__ Created 360-degree gifs and set camera viewpoints for rendering.
-
-  3. __Re-creating the Dolly Zoom:__ Successfully implemented the Dolly Zoom effect in PyTorch3D.
-     <img src="reviews_and_presentations/outputs/a1_dolly_zoom.png" alt="dolly zoom" width="400"/> -->
 
 - **Bluebook bulldozer price regression**:
 
